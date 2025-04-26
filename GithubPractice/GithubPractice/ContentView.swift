@@ -15,6 +15,8 @@ struct ContentView: View {
             .font(.subheadline)
         Text("Test03です")
             .font(.caption)
+        Text("Test04です")
+            .font(.caption2)
     }
 }
 
